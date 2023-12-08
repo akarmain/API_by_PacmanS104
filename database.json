@@ -1,0 +1,20 @@
+{
+  "username": {
+    "password": "user_password",
+    "games": [
+      {
+        "result": 10,
+        "time": "09:45 31.12.23"
+      }
+    ]
+  },
+  "akarmain": {
+    "password": "1234567890",
+    "games": [
+      {
+        "result": 9999,
+        "time": "09:45 31.12.23"
+      }
+    ]
+  }
+}

@@ -4,7 +4,7 @@ import json
 from typing import List, Optional
 
 app = FastAPI()
-PORT = 3031
+PORT = 3000
 
 
 # Модель для данных игры
